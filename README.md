@@ -1,4 +1,5 @@
-# Science-Expo-Project
+# Dispersive Echo Finder
+
 The purpose of the program is to analyse the analysis windows as well as the frequency bands of a spectrogram to plot points that follow the dispersive echos
 given by tapping a slinky spring.
 
